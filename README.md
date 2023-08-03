@@ -1,1 +1,1 @@
-# QR-SCAN
+# QR-SCAN used in many companies
